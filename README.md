@@ -1,27 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Print My Ride
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 Concept
 
 The simple concept for this app is to create an ecommerce portal aimed at connecting domestic 3D printer owners with CAD designers and those in need of simple 3D printed items.  The primary customer target market initially is tradespeople looking to source out of production or otherwisw unavailavle replacement parts for what would once have been considered obsolete appliances.  The finsished product will hold a database of CAD files for comminly sourced items and maintain a payment portal, including dynamic invoice generation, and a supply chain guide allowing for easy manufacture and dispatch of ordered goods.  All stakeholders will operate independantly  
